@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# ML Models
+*.pkl
+*.joblib
+
+# Node.js
+node_modules/
+
+# Streamlit
+.streamlit/
+
+# Datasets
+*.csv
+data/
+datasets/
+raw/
+
+# Jupyter
+.ipynb_checkpoints/
